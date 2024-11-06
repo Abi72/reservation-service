@@ -71,6 +71,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>reserve-it-docker</finalName>
     </build>
 
 </project>
